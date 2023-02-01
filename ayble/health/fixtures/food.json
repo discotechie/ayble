@@ -1,0 +1,79 @@
+[
+  {
+    "model": "health.food",
+    "pk": 1,
+    "fields": {
+      "food": "Dairy"
+    }
+  },
+  {
+    "model": "health.food",
+    "pk": 2,
+    "fields": {
+      "food": "Fatty Foods"
+    }
+  },
+  {
+    "model": "health.food",
+    "pk": 3,
+    "fields": {
+      "food": "Wheat"
+    }
+  },
+  {
+    "model": "health.food",
+    "pk": 4,
+    "fields": {
+      "food": "Gluten"
+    }
+  },
+  {
+    "model": "health.food",
+    "pk": 5,
+    "fields": {
+      "food": "Chocolate"
+    }
+  },
+  {
+    "model": "health.food",
+    "pk": 6,
+    "fields": {
+      "food": "Fried Foods"
+    }
+  },
+  {
+    "model": "health.food",
+    "pk": 7,
+    "fields": {
+      "food": "Red Meat"
+    }
+  },
+  {
+    "model": "health.food",
+    "pk": 8,
+    "fields": {
+      "food": "Caffeinated Drinks"
+    }
+  },
+  {
+    "model": "health.food",
+    "pk": 9,
+    "fields": {
+      "food": "Alcohol"
+    }
+  },
+  {
+    "model": "health.food",
+    "pk": 10,
+    "fields": {
+      "food": "Beans"
+    }
+  },
+  {
+    "model": "health.food",
+    "pk": 11,
+    "fields": {
+      "food": "Cruciferous Vegetables"
+    }
+  }
+]

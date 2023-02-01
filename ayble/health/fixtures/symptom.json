@@ -1,0 +1,86 @@
+[
+  {
+    "model": "health.symptom",
+    "pk": 1,
+    "fields": {
+      "symptom": "Stomach Pains"
+    }
+  },
+  {
+    "model": "health.symptom",
+    "pk": 2,
+    "fields": {
+      "symptom": "Diarrhea"
+    }
+  },
+  {
+    "model": "health.symptom",
+    "pk": 3,
+    "fields": {
+      "symptom": "Cramps"
+    }
+  },
+  {
+    "model": "health.symptom",
+    "pk": 4,
+    "fields": {
+      "symptom": "Nausea"
+    }
+  },
+  {
+    "model": "health.symptom",
+    "pk": 5,
+    "fields": {
+      "symptom": "Constipation"
+    }
+  },
+  {
+    "model": "health.symptom",
+    "pk": 6,
+    "fields": {
+      "symptom": "Indigestion"
+    }
+  },
+  {
+    "model": "health.symptom",
+    "pk": 7,
+    "fields": {
+      "symptom": "Heartburn"
+    }
+  },
+  {
+    "model": "health.symptom",
+    "pk": 8,
+    "fields": {
+      "symptom": "Reflux"
+    }
+  },
+  {
+    "model": "health.symptom",
+    "pk": 9,
+    "fields": {
+      "symptom": "Vomiting"
+    }
+  },
+  {
+    "model": "health.symptom",
+    "pk": 10,
+    "fields": {
+      "symptom": "Belching"
+    }
+  },
+  {
+    "model": "health.symptom",
+    "pk": 11,
+    "fields": {
+      "symptom": "Flatulence"
+    }
+  },
+  {
+    "model": "health.symptom",
+    "pk": 12,
+    "fields": {
+      "symptom": "Bloating"
+    }
+  }
+]

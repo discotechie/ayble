@@ -1,0 +1,79 @@
+[
+  {
+    "model": "health.diagnosis",
+    "pk": 1,
+    "fields": {
+      "diagnosis": "GERD"
+    }
+  },
+  {
+    "model": "health.diagnosis",
+    "pk": 2,
+    "fields": {
+      "diagnosis": "Gallstones"
+    }
+  },
+  {
+    "model": "health.diagnosis",
+    "pk": 3,
+    "fields": {
+      "diagnosis": "Celiac Disease"
+    }
+  },
+  {
+    "model": "health.diagnosis",
+    "pk": 4,
+    "fields": {
+      "diagnosis": "Crohn’s Disease"
+    }
+  },
+  {
+    "model": "health.diagnosis",
+    "pk": 5,
+    "fields": {
+      "diagnosis": "Ulcerative Colitis"
+    }
+  },
+  {
+    "model": "health.diagnosis",
+    "pk": 6,
+    "fields": {
+      "diagnosis": "Irritable Bowel Syndrome"
+    }
+  },
+  {
+    "model": "health.diagnosis",
+    "pk": 7,
+    "fields": {
+      "diagnosis": "Hemorrhoids"
+    }
+  },
+  {
+    "model": "health.diagnosis",
+    "pk": 8,
+    "fields": {
+      "diagnosis": "Diverticulitis"
+    }
+  },
+  {
+    "model": "health.diagnosis",
+    "pk": 9,
+    "fields": {
+      "diagnosis": "Anal Fissures"
+    }
+  },
+  {
+    "model": "health.diagnosis",
+    "pk": 10,
+    "fields": {
+      "diagnosis": "Peptic Ulcers"
+    }
+  },
+  {
+    "model": "health.diagnosis",
+    "pk": 11,
+    "fields": {
+      "diagnosis": "Gastroparesis"
+    }
+  }
+]
