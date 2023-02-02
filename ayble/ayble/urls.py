@@ -6,7 +6,7 @@ from rest_framework import routers
 
 # Routers provide a way to automatically determine the URL conf.
 router = routers.DefaultRouter()
-router.register(r'users', UserViewSet)
+router.register(r'users', UserViewSet, basename='customuser')
 router.register(r'symptom', SymptomViewSet)
 router.register(r'diagnosis', DiagnosisViewSet)
 router.register(r'food', FoodViewSet)
